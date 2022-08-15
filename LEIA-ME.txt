@@ -1,0 +1,1 @@
+Sempre que instalar o projeto em outra maquina, dar o comando "npm install" no terminal com a pasta do projeto aberto
